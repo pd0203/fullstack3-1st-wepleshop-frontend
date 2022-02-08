@@ -8,8 +8,8 @@
 
 - 개발기간 : 2021/12/27 ~ 2022/1/7
 - 개발 인원 : 이진웅, 최종민, 장종현, 박효상, 김영욱
-- [프론트 github 링크](https://github.com/wecode-bootcamp-korea/fullstack3-1st-wepleshop-frontend)
-- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/fullstack3-1st-wepleshop-backend)
+- [프론트 github 링크](https://github.com/pd0203/wepleshop-frontend)
+- [백엔드 github 링크](https://github.com/pd0203/wepleshop-backend)
 
 ### 프로젝트 선정이유
 
