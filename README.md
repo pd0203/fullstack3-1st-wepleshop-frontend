@@ -1,3 +1,6 @@
+## EC2 & RDS & Docker 배포 주소
+http://3.36.57.170:3000
+
 ## Wepleshop 프로젝트 소개
 
 - [마플](https://marpple.shop/kr/)을 모티브로한 프로젝트
